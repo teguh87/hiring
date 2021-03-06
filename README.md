@@ -1,7 +1,7 @@
 # Hiring Test
 
 Objective :  please fill this code with proper logic, you must follow the rule 
-You have 48 minutes to finish the task.
+You have 48 minutes to finished the task.
 
 ```
 # import all dependancy
