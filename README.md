@@ -31,7 +31,7 @@ if __name__=='__main__':
 
 ```
 
-### You need install the dependancies for this task :
+### You need install the dependancies you have additional 10 until 12  minutes for this task :
 - Python 2.7 or Python 3.6 above
 - Linux if your system not linux you can install vitualisation 
 
