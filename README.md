@@ -35,6 +35,6 @@ if __name__=='__main__':
 - Python 2.7 or Python 3.6 above
 - Linux if your system not linux you can install vitualisation 
 
-if the depandancies have installed  inside your computers you can start the assignment above.
+if the depandancies have installed  inside your computer you can start the assignment above.
 
 Good Luck
